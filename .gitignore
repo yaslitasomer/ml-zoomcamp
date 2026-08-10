@@ -1,0 +1,15 @@
+# Python & Virtual Environments
+__pycache__/
+.venv/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment variables & data
+.env
+data/
+*.csv
+*.parquet
